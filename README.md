@@ -2,7 +2,7 @@
 
 ## Hi I'm Oksana. Welcome to my profile 👋
 
-### Junior Python developer ![#OpenToWork](https://img.shields.io/badge/-OpenToWork-397904?style=plastic&logo=OpenToWork)
+### Junior Python developer ![#OpenToWork](https://img.shields.io/badge/-OpenToWork-092E20?style=flat-square&logo=OpenToWork)
 
 Recent graduate of the Hexlet online school with experience in the international IT company as a Project Operations manager.
 
@@ -11,10 +11,9 @@ Always open to collaborating on projects and innovative/disruptive ideas.
 
 ### Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Oksana_Karshakevich-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oksana-karshakevich/)](https://www.linkedin.com/in/oksana-karshakevich/)
-[![Gmail Badge](https://img.shields.io/badge/-oksanaakadem39-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:oksanaakadem39@gmail.com)](mailto:oksanaakadem39@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Ksyu_s_h)
-
+[![Linkedin Badge](https://img.shields.io/badge/-Oksana_Karshakevich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oksana-karshakevich/)](https://www.linkedin.com/in/oksana-karshakevich/)
+[![Gmail Badge](https://img.shields.io/badge/-oksanaakadem39-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oksanaakadem39@gmail.com)](mailto:oksanaakadem39@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Ksyu_s_h)
 
 ## Technologies & Tools:
 
