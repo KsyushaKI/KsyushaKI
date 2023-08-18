@@ -2,11 +2,10 @@
 
 ## Hi I'm Oksana. Welcome to my profile 👋
 
-### Junior Python developer ![#OpenToWork](https://img.shields.io/badge/-OpenToWork-092E20?style=flat-square&logo=OpenToWork)
+### Python developer ![#OpenToWork](https://img.shields.io/badge/-OpenToWork-092E20?style=flat-square&logo=OpenToWork)
 
-Recent graduate of the Hexlet online school with experience in the international IT company as a Project Operations manager.
+Junior Python developer with previous experience as a Project Operations Manager in the international IT company. Recent graduate of the Hexlet online school as a Python developer. I have practical experience with databases, web frameworks and other tools necessary for developing in Python. 
 
-During the training I successfully done 4 project. You can get acquainted with them, other projects and with used technologies in my profile.
 Always open to collaborating on projects and innovative/disruptive ideas. 
 
 ### Feel free to connect with me here:
